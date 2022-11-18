@@ -8,15 +8,16 @@
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
-<img src="mhn-admin.gif">
+<img src="mhn-admin.gif" width=150>
 
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
 
-<img src="dionaea-honeypot.gif">
+<img src="dionaea-honeypot.gif" width=150>
 
 ### Database Backup (Required) 
+<img src="database backup.gif" width=150>
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
