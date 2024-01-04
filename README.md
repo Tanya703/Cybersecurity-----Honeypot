@@ -27,15 +27,6 @@ As we used command mongoexport --db mnemosyne --collection session > session.jso
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
 
-#### X Honeypot
-
-<img src="x-honeypot.gif">
-
-
-
-#### X Malware
-
-<img src="x-malware.gif">
 
 ## Notes
 
